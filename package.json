@@ -1,5 +1,5 @@
 {
-	"name": "ohShop",
+	"name": "ohshop",
 	"version": "0.2.0",
 	"proxy": "http://localhost:5000",
 	"private": true,
